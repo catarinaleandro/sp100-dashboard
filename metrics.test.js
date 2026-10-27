@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {performance,windowPoints} from './public/metrics.js';
+const p=[{date:'2025-12-30',close:80},{date:'2025-12-31',close:100},{date:'2026-01-02',close:110},{date:'2026-10-26',close:150}];
+test('YTD uses prior year final close',()=>assert.equal(performance(p,'YTD'),50));test('missing coverage is unavailable',()=>assert.equal(performance(p,'1Y'),null));test('missing series returns unavailable',()=>assert.equal(performance(undefined,'YTD'),null));test('window includes boundary close',()=>assert.equal(windowPoints(p,'1M')[0].date,'2026-01-02'));
