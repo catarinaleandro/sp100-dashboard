@@ -1,0 +1,713 @@
+{
+  "asOf": "2026-10-26",
+  "source": "https://www.ishares.com/us/products/239723/ishares-s-p-100-etf/latest-holdings.csv",
+  "companies": [
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "sector": "Information Technology",
+      "weight": 10.71,
+      "holdingPrice": 216.0
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "sector": "Information Technology",
+      "weight": 10.29,
+      "holdingPrice": 343.91
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "sector": "Information Technology",
+      "weight": 8.11,
+      "holdingPrice": 532.6
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.Com Inc",
+      "sector": "Consumer Discretionary",
+      "weight": 5.01,
+      "holdingPrice": 249.09
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Class A",
+      "sector": "Communication",
+      "weight": 3.81,
+      "holdingPrice": 316.8
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "sector": "Information Technology",
+      "weight": 3.21,
+      "holdingPrice": 329.17
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Class C",
+      "sector": "Communication",
+      "weight": 3.06,
+      "holdingPrice": 314.19
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Class A",
+      "sector": "Communication",
+      "weight": 2.85,
+      "holdingPrice": 630.56
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "sector": "Consumer Discretionary",
+      "weight": 2.26,
+      "holdingPrice": 391.62
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly",
+      "sector": "Health Care",
+      "weight": 2.1,
+      "holdingPrice": 1279.14
+    },
+    {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway Inc Class B",
+      "sector": "Financials",
+      "weight": 2.09,
+      "holdingPrice": 548.56
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "sector": "Information Technology",
+      "weight": 2.09,
+      "holdingPrice": 903.7
+    },
+    {
+      "symbol": "JPM",
+      "name": "Jpmorgan Chase & Co",
+      "sector": "Financials",
+      "weight": 1.82,
+      "holdingPrice": 334.04
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Information Technology",
+      "weight": 1.78,
+      "holdingPrice": 531.28
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxonmobil Holdings Corp",
+      "sector": "Energy",
+      "weight": 1.56,
+      "holdingPrice": 184.54
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Class A",
+      "sector": "Financials",
+      "weight": 1.41,
+      "holdingPrice": 404.16
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Health Care",
+      "weight": 1.32,
+      "holdingPrice": 266.3
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart",
+      "sector": "Consumer Staples",
+      "weight": 1.1,
+      "holdingPrice": 120.29
+    },
+    {
+      "symbol": "ABBV",
+      "name": "Abbvie",
+      "sector": "Health Care",
+      "weight": 1.04,
+      "holdingPrice": 286.74
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Class A",
+      "sector": "Financials",
+      "weight": 1.02,
+      "holdingPrice": 613.5
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "sector": "Energy",
+      "weight": 0.94,
+      "holdingPrice": 232.01
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Class A",
+      "sector": "Information Technology",
+      "weight": 0.94,
+      "holdingPrice": 198.84
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "sector": "Information Technology",
+      "weight": 0.92,
+      "holdingPrice": 90.47
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corp",
+      "sector": "Consumer Staples",
+      "weight": 0.91,
+      "holdingPrice": 1005.16
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc",
+      "sector": "Information Technology",
+      "weight": 0.89,
+      "holdingPrice": 110.24
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble",
+      "sector": "Consumer Staples",
+      "weight": 0.76,
+      "holdingPrice": 159.92
+    },
+    {
+      "symbol": "UNH",
+      "name": "Unitedhealth Group",
+      "sector": "Health Care",
+      "weight": 0.76,
+      "holdingPrice": 410.7
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola",
+      "sector": "Consumer Staples",
+      "weight": 0.74,
+      "holdingPrice": 92.7
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "sector": "Health Care",
+      "weight": 0.71,
+      "holdingPrice": 140.61
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank Of America",
+      "sector": "Financials",
+      "weight": 0.67,
+      "holdingPrice": 50.52
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot",
+      "sector": "Consumer Discretionary",
+      "weight": 0.65,
+      "holdingPrice": 319.38
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks",
+      "sector": "Information Technology",
+      "weight": 0.65,
+      "holdingPrice": 390.46
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc",
+      "sector": "Industrials",
+      "weight": 0.65,
+      "holdingPrice": 692.13
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International",
+      "sector": "Consumer Staples",
+      "weight": 0.64,
+      "holdingPrice": 201.87
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Material Inc",
+      "sector": "Information Technology",
+      "weight": 0.63,
+      "holdingPrice": 387.59
+    },
+    {
+      "symbol": "GE",
+      "name": "Ge Aerospace",
+      "sector": "Industrials",
+      "weight": 0.61,
+      "holdingPrice": 288.43
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research",
+      "sector": "Information Technology",
+      "weight": 0.61,
+      "holdingPrice": 237.5
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instrument",
+      "sector": "Information Technology",
+      "weight": 0.56,
+      "holdingPrice": 298.12
+    },
+    {
+      "symbol": "RTX",
+      "name": "Rtx",
+      "sector": "Industrials",
+      "weight": 0.55,
+      "holdingPrice": 197.48
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "sector": "Communication",
+      "weight": 0.55,
+      "holdingPrice": 63.9
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group",
+      "sector": "Financials",
+      "weight": 0.53,
+      "holdingPrice": 893.28
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific",
+      "sector": "Health Care",
+      "weight": 0.52,
+      "holdingPrice": 684.89
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo",
+      "sector": "Financials",
+      "weight": 0.51,
+      "holdingPrice": 82.65
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc",
+      "sector": "Health Care",
+      "weight": 0.49,
+      "holdingPrice": 444.63
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Co",
+      "sector": "Information Technology",
+      "weight": 0.49,
+      "holdingPrice": 253.44
+    },
+    {
+      "symbol": "LIN",
+      "name": "Linde Plc",
+      "sector": "Materials",
+      "weight": 0.48,
+      "holdingPrice": 507.56
+    },
+    {
+      "symbol": "GEV",
+      "name": "Ge Vernova",
+      "sector": "Industrials",
+      "weight": 0.47,
+      "holdingPrice": 855.12
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "sector": "Financials",
+      "weight": 0.45,
+      "holdingPrice": 183.49
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "sector": "Information Technology",
+      "weight": 0.45,
+      "holdingPrice": 126.06
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup",
+      "sector": "Financials",
+      "weight": 0.42,
+      "holdingPrice": 121.04
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "sector": "Information Technology",
+      "weight": 0.42,
+      "holdingPrice": 247.61
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences",
+      "sector": "Health Care",
+      "weight": 0.4,
+      "holdingPrice": 158.69
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "sector": "Information Technology",
+      "weight": 0.39,
+      "holdingPrice": 179.6
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney",
+      "sector": "Communication",
+      "weight": 0.39,
+      "holdingPrice": 110.4
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks",
+      "sector": "Information Technology",
+      "weight": 0.38,
+      "holdingPrice": 177.24
+    },
+    {
+      "symbol": "PEP",
+      "name": "Pepsico",
+      "sector": "Consumer Staples",
+      "weight": 0.38,
+      "holdingPrice": 135.46
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk",
+      "sector": "Information Technology",
+      "weight": 0.38,
+      "holdingPrice": 1255.58
+    },
+    {
+      "symbol": "COP",
+      "name": "Conocophillips",
+      "sector": "Energy",
+      "weight": 0.37,
+      "holdingPrice": 151.37
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Health Care",
+      "weight": 0.37,
+      "holdingPrice": 104.88
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "sector": "Communication",
+      "weight": 0.37,
+      "holdingPrice": 43.1
+    },
+    {
+      "symbol": "MCD",
+      "name": "Mcdonalds Corp",
+      "sector": "Consumer Discretionary",
+      "weight": 0.36,
+      "holdingPrice": 250.83
+    },
+    {
+      "symbol": "UNP",
+      "name": "Union Pacific",
+      "sector": "Industrials",
+      "weight": 0.36,
+      "holdingPrice": 296.97
+    },
+    {
+      "symbol": "NEE",
+      "name": "Nextera Energy",
+      "sector": "Utilities",
+      "weight": 0.35,
+      "holdingPrice": 82.04
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer",
+      "sector": "Health Care",
+      "weight": 0.35,
+      "holdingPrice": 29.79
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express",
+      "sector": "Financials",
+      "weight": 0.34,
+      "holdingPrice": 315.05
+    },
+    {
+      "symbol": "NOW",
+      "name": "Servicenow",
+      "sector": "Information Technology",
+      "weight": 0.34,
+      "holdingPrice": 158.18
+    },
+    {
+      "symbol": "BLK",
+      "name": "Blackrock",
+      "sector": "Financials",
+      "weight": 0.33,
+      "holdingPrice": 1127.66
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere",
+      "sector": "Industrials",
+      "weight": 0.33,
+      "holdingPrice": 641.25
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical",
+      "sector": "Health Care",
+      "weight": 0.33,
+      "holdingPrice": 451.63
+    },
+    {
+      "symbol": "ACN",
+      "name": "Accenture Plc Class A",
+      "sector": "Information Technology",
+      "weight": 0.31,
+      "holdingPrice": 247.23
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing",
+      "sector": "Industrials",
+      "weight": 0.31,
+      "holdingPrice": 188.31
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab",
+      "sector": "Financials",
+      "weight": 0.3,
+      "holdingPrice": 89.73
+    },
+    {
+      "symbol": "DHR",
+      "name": "Danaher",
+      "sector": "Health Care",
+      "weight": 0.3,
+      "holdingPrice": 232.97
+    },
+    {
+      "symbol": "T",
+      "name": "At&T",
+      "sector": "Communication",
+      "weight": 0.29,
+      "holdingPrice": 20.85
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc Class C",
+      "sector": "Information Technology",
+      "weight": 0.29,
+      "holdingPrice": 467.09
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber Technologies",
+      "sector": "Industrials",
+      "weight": 0.28,
+      "holdingPrice": 66.13
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin",
+      "sector": "Industrials",
+      "weight": 0.26,
+      "holdingPrice": 635.2
+    },
+    {
+      "symbol": "BMY",
+      "name": "Bristol Myers Squibb",
+      "sector": "Health Care",
+      "weight": 0.26,
+      "holdingPrice": 61.61
+    },
+    {
+      "symbol": "COF",
+      "name": "Capital One Financial Corp",
+      "sector": "Financials",
+      "weight": 0.25,
+      "holdingPrice": 202.35
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group Inc",
+      "sector": "Consumer Staples",
+      "weight": 0.25,
+      "holdingPrice": 73.62
+    },
+    {
+      "symbol": "CVS",
+      "name": "Cvs Health",
+      "sector": "Health Care",
+      "weight": 0.24,
+      "holdingPrice": 92.53
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corp",
+      "sector": "Consumer Discretionary",
+      "weight": 0.24,
+      "holdingPrice": 102.69
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic Plc",
+      "sector": "Health Care",
+      "weight": 0.24,
+      "holdingPrice": 94.79
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings",
+      "sector": "Consumer Discretionary",
+      "weight": 0.24,
+      "holdingPrice": 153.14
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowes Companies Inc",
+      "sector": "Consumer Discretionary",
+      "weight": 0.23,
+      "holdingPrice": 198.22
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern",
+      "sector": "Utilities",
+      "weight": 0.22,
+      "holdingPrice": 92.57
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc",
+      "sector": "Information Technology",
+      "weight": 0.21,
+      "holdingPrice": 258.62
+    },
+    {
+      "symbol": "BNY",
+      "name": "Bank Of New York Mellon Corp",
+      "sector": "Financials",
+      "weight": 0.2,
+      "holdingPrice": 147.18
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy Corp",
+      "sector": "Utilities",
+      "weight": 0.2,
+      "holdingPrice": 124.44
+    },
+    {
+      "symbol": "USB",
+      "name": "Us Bancorp",
+      "sector": "Financials",
+      "weight": 0.19,
+      "holdingPrice": 59.7
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit",
+      "sector": "Information Technology",
+      "weight": 0.19,
+      "holdingPrice": 339.89
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corp",
+      "sector": "Industrials",
+      "weight": 0.19,
+      "holdingPrice": 357.04
+    },
+    {
+      "symbol": "EMR",
+      "name": "Emerson Electric",
+      "sector": "Industrials",
+      "weight": 0.18,
+      "holdingPrice": 161.7
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M",
+      "sector": "Industrials",
+      "weight": 0.18,
+      "holdingPrice": 172.79
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Reit",
+      "sector": "Real Estate",
+      "weight": 0.18,
+      "holdingPrice": 188.28
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "Mondelez International Class A",
+      "sector": "Consumer Staples",
+      "weight": 0.16,
+      "holdingPrice": 62.97
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Class A",
+      "sector": "Communication",
+      "weight": 0.16,
+      "holdingPrice": 22.05
+    },
+    {
+      "symbol": "UPS",
+      "name": "United Parcel Service Inc Class B",
+      "sector": "Industrials",
+      "weight": 0.15,
+      "holdingPrice": 100.32
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T Mobile Us Inc",
+      "sector": "Communication",
+      "weight": 0.15,
+      "holdingPrice": 146.93
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors",
+      "sector": "Consumer Discretionary",
+      "weight": 0.14,
+      "holdingPrice": 76.31
+    },
+    {
+      "symbol": "FDX",
+      "name": "Fedex Corp",
+      "sector": "Industrials",
+      "weight": 0.14,
+      "holdingPrice": 300.58
+    }
+  ]
+}
